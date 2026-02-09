@@ -592,7 +592,7 @@ body{
 	width: 32%;
 	height: 50px;
 	color: #ffffff;
-	background-color: #131111;
+	background-color: #b5acac;
 	color: #ffffff;
 	font-size: 16pt;	
 	margin-top: 35px;
@@ -799,4 +799,5 @@ a:hover {
     width: 100%;
     height: auto;
     background: #0c0116;
+
 }
